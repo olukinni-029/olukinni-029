@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @olukinni-029
+- 👋 Hi, I’m @olukinni Feranmi
 - 👀 I’m interested in Javascript, Nodejs,Express, and Mongodb.
 - 🌱 I’m currently learning Javascript, Node.js, Express,  and Mongodb.
 - 💞️ I’m looking to collaborate on ...
